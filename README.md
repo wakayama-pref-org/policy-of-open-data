@@ -1,5 +1,5 @@
 # policy-of-open-data
-　「和歌山県オープンデータの推進に係る指針」について、[和歌山県ホームページでの公表](http://www.pref.wakayama.lg.jp/prefg/020400/opendata)に併せ、当サイトにも掲載しました。
+　「和歌山県オープンデータの推進に係る指針」及び「和歌山県ウェブサイト公開情報標準利用規約」について、[和歌山県ホームページでの公表](http://www.pref.wakayama.lg.jp/prefg/020400/opendata/opendata_policy.html)に併せ、当サイトにも掲載しました。
 
 　掲載内容について、皆さまのご意見をお願いします。
 
